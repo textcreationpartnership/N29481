@@ -113,8 +113,9 @@
    <text xml:lang="eng">
       <body>
          <div type="declaration">
-            <pb facs="tcp:039258_0000_1013FA255AFBE5E0"/>
-            <pb facs="tcp:039258_0001_1013FA2A62A83528" rendition="simple:additions"/>
+            <pb facs="unknown:039258_0000_1013FA255AFBE5E0"/>
+            <pb facs="unknown:039258_0001_1013FA2A62A83528"
+                rendition="simple:additions"/>
             <head>At the CONVENTION of the Governour and Council, and Repreſentatives of the Maſſachuſets Colony.</head>
             <p>IT is Declared, that all the Laws made by the Governour and Com<g ref="char:EOLhyphen"/>pany of ſaid Colony, that were in Force on the twelfth day of <hi>May,</hi> One thouſand ſix hundred eighty ſix (except any that are repug<g ref="char:EOLhyphen"/>nant to the Laws of <hi>England</hi>) are the Laws of this Colony, and con<g ref="char:EOLhyphen"/>tinue in Force till farther Settlement, to which all Inhabitants and Re<g ref="char:EOLhyphen"/>ſidents here are to give due Obedience,</p>
             <closer>
